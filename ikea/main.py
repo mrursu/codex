@@ -2,7 +2,7 @@ import requests
 import json
 import sqlite3
 
-# hello
+# hello ursu
 def insert_db(offer):
     with sqlite3 .connect('ikea.db') as connection:
         cursor = connection.cursor()
