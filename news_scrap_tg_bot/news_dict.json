@@ -1,0 +1,92 @@
+{
+    "531266": {
+        "article_date_timestamp": 1650629441.0,
+        "article_title": "Хакеры забыли забрать криптовалюту на $1 млн после атаки на DeFi-проект",
+        "article_url": "https://www.securitylab.ru/news/531266.php",
+        "article_desc": "Злоумышленники не перевели средства, прежде чем вызвать функцию самоуничтожения смарт-контракта."
+    },
+    "531265": {
+        "article_date_timestamp": 1650627018.0,
+        "article_title": "Хакеры рассылают рекрутерам резюме с внедренным вредоносным ПО more_eggs",
+        "article_url": "https://www.securitylab.ru/news/531265.php",
+        "article_desc": "Вредоносное ПО предположительно разработано группировкой Golden Chickens."
+    },
+    "531264": {
+        "article_date_timestamp": 1650622543.0,
+        "article_title": "Кибервымогатели все чаще стали просить выкуп в Monero",
+        "article_url": "https://www.securitylab.ru/news/531264.php",
+        "article_desc": "Анонимные монеты наподобие Monero ставят полную анонимность участников транзакций выше удобства в использовании."
+    },
+    "531263": {
+        "article_date_timestamp": 1650618913.0,
+        "article_title": "Уязвимость в ALAC позволяет захватить контроль над миллионами Android-устройств",
+        "article_url": "https://www.securitylab.ru/news/531263.php",
+        "article_desc": "С помощью уязвимости хакеры могут выполнить вредоносный код на устройстве с использованием вредоносного аудиофайла."
+    },
+    "531262": {
+        "article_date_timestamp": 1650617919.0,
+        "article_title": "Контроль уязвимостей: результаты и выводы 2021 года",
+        "article_url": "https://www.securitylab.ru/news/531262.php",
+        "article_desc": "27 апреля в 11:00 знаете, как эффективно выстроить процесс контроля уязвимостей в вашей организации."
+    },
+    "531261": {
+        "article_date_timestamp": 1650615386.0,
+        "article_title": "Функция Apple Messages для сокрытия снимков с наготой выходит на международный уровень",
+        "article_url": "https://www.securitylab.ru/news/531261.php",
+        "article_desc": "﻿Нововведение появится в Великобритании, Канаде, Австралии и Новой Зеландии."
+    },
+    "531260": {
+        "article_date_timestamp": 1650614702.0,
+        "article_title": "Ученые впервые запустили квантовые задачи на квантовом компьютере на холодных кубитах",
+        "article_url": "https://www.securitylab.ru/news/531260.php",
+        "article_desc": "Появление квантовых компьютеров, которые можно использовать на практике, стало еще на шаг ближе."
+    },
+    "531259": {
+        "article_date_timestamp": 1650613919.0,
+        "article_title": "Операторы ботнета LemonDuck атаковали серверы Docker",
+        "article_url": "https://www.securitylab.ru/news/531259.php",
+        "article_desc": "В ходе текущей вредоносной кампании хакеры устанавливают криптомайнеры на системы жертв."
+    },
+    "531258": {
+        "article_date_timestamp": 1650608776.0,
+        "article_title": "Участники Pwn2Own Miami 2022 выявили 26 уязвимостей в АСУ ТП и SCADA",
+        "article_url": "https://www.securitylab.ru/news/531258.php",
+        "article_desc": "В ходе соревнований участники атаковали серверы управления, серверы OPC UA, шлюзы данных и человеко-машинные интерфейсы."
+    },
+    "531254": {
+        "article_date_timestamp": 1650557228.0,
+        "article_title": "За 4 месяца вымогатели Black Cat взломали как минимум 60 организаций по всему миру",
+        "article_url": "https://www.securitylab.ru/news/531254.php",
+        "article_desc": "BlackCat является первой кибервымогательской группировкой, которой удалось добиться больших успехов с RUST."
+    },
+    "531251": {
+        "article_date_timestamp": 1650556951.0,
+        "article_title": "Киберарена: узнай все первым в инфобезе",
+        "article_url": "https://www.securitylab.ru/news/531251.php",
+        "article_desc": "28 апреля в 19:00 Медиа Группа «Авангард» и компания «Газинформсервис» приглашают всех на онлайн-шоу «Киберарена»."
+    },
+    "531250": {
+        "article_date_timestamp": 1650554890.0,
+        "article_title": "Преступники активно улучшают методы проведения фишинговых атак",
+        "article_url": "https://www.securitylab.ru/news/531250.php",
+        "article_desc": "Количество фишинговых атак во всем мире выросло на 29% в прошлом году."
+    },
+    "531269": {
+        "article_date_timestamp": 1650637139.0,
+        "article_title": "Cisco исправила три уязвимости в TelePresence, RoomOS и Umbrella VA",
+        "article_url": "https://www.securitylab.ru/news/531269.php",
+        "article_desc": "Их эксплуатация позволяет вызвать состояние отказа в обслуживании и перехватить контроль над уязвимыми системами."
+    },
+    "531268": {
+        "article_date_timestamp": 1650635116.0,
+        "article_title": "QNAP рассказала, как обезопасить NAS-устройства от атак через уязвимости в Apache HTTP Server",
+        "article_url": "https://www.securitylab.ru/news/531268.php",
+        "article_desc": "В настоящее время QNAP изучает эти уязвимости и готовится вскоре выпустить исправления."
+    },
+    "531267": {
+        "article_date_timestamp": 1650631436.0,
+        "article_title": "Пентагон: Starlink на Украине пробился сквозь «электромагнитную атаку»",
+        "article_url": "https://www.securitylab.ru/news/531267.php",
+        "article_desc": "«Мы должны иметь такую ​​маневренность», — сказал представитель Пентагона."
+    }
+}
