@@ -31,10 +31,11 @@ def get_data():
                 'Названия товара',
                 'Старая цена',
                 'Новая цена',
+                'Ссылка'
             )
         )
 
-    for item in range(1, 3):
+    for item in range(1, 2 ):
         url = f'https://be.tommy.com/heren-t-shirts?scrollPage={item}'
         response = requests.get(url = url, headers = headers)
 
@@ -51,6 +52,8 @@ def get_data():
 
             new_price = items.find('span',class_ = 'price-display__selling_Ub68r').text
 
+            href_product = 'https://be.tommy.com/' + items.find('a', class_ = 'product-tile__anchor_1ujO3').get('href')
+
             with open('catalog_list.csv','a') as file:
                 writer = csv.writer(file)
 
@@ -58,7 +61,9 @@ def get_data():
                     (
                         name,
                         old_price,
-                        new_price
+                        new_price,
+                        href_product
+                        
                     )
                 )
     print('[INFO] Файл успешно записан....')
