@@ -88,5 +88,155 @@
         "article_title": "Пентагон: Starlink на Украине пробился сквозь «электромагнитную атаку»",
         "article_url": "https://www.securitylab.ru/news/531267.php",
         "article_desc": "«Мы должны иметь такую ​​маневренность», — сказал представитель Пентагона."
+    },
+    "531280": {
+        "article_date_timestamp": 1650740808.0,
+        "article_title": "Google запретит записывать звонки на Android-смартфонах",
+        "article_url": "https://www.securitylab.ru/news/531280.php",
+        "article_desc": "Из магазина приложений для Android-смартфонов исчезнут сервисы для записи звонков."
+    },
+    "531279": {
+        "article_date_timestamp": 1650739437.0,
+        "article_title": "Минцифры  должно завершить разработку российского магазина приложений до 1 июня 2022 г.",
+        "article_url": "https://www.securitylab.ru/news/531279.php",
+        "article_desc": "Сервис станет альтернативой иностранным App Store и Google Play"
+    },
+    "531278": {
+        "article_date_timestamp": 1650734202.0,
+        "article_title": "Обнаружена критическая уязвимость в Cisco Umbrella VA",
+        "article_url": "https://www.securitylab.ru/news/531278.php",
+        "article_desc": "Удаленный атакующий может создавать собственные административные учетные записи"
+    },
+    "531277": {
+        "article_date_timestamp": 1650727800.0,
+        "article_title": "«Подходы к проектированию подсистем обеспечения безопасности КИИ»",
+        "article_url": "https://www.securitylab.ru/news/531277.php",
+        "article_desc": "Компании Digital Design и Лаборатория Касперского приглашают к участию в вебинаре, который состоится 28 апреля в 11:00."
+    },
+    "531276": {
+        "article_date_timestamp": 1650713783.0,
+        "article_title": "В промышленных продуктах компании Elcomplus обнаружены критические уязвимости",
+        "article_url": "https://www.securitylab.ru/news/531276.php",
+        "article_desc": "Список уязвимостей включает обход пути, межсайтовое выполнение сценариев, произвольную загрузку файлов и пр."
+    },
+    "531275": {
+        "article_date_timestamp": 1650703939.0,
+        "article_title": "Банки будут возвращать клиентам украденные деньги в течение 30 дней",
+        "article_url": "https://www.securitylab.ru/news/531275.php",
+        "article_desc": "Регулятор считает, что это позволит соблюсти баланс интересов банков и их клиентов."
+    },
+    "531274": {
+        "article_date_timestamp": 1650701306.0,
+        "article_title": "Разговоры об импортозамещении: сетевые средства защиты информации «Кода Безопасности»",
+        "article_url": "https://www.securitylab.ru/news/531274.php",
+        "article_desc": "Примите участие во второй онлайн-встречи из цикла «Разговоры об импортозамещении» от «Ростелеком-Солар»"
+    },
+    "531273": {
+        "article_date_timestamp": 1650699450.0,
+        "article_title": "Криптобиржа Binance тайно сотрудничала с российскими спецслужбами",
+        "article_url": "https://www.securitylab.ru/news/531273.php",
+        "article_desc": "Криптобиржа Binance тайно сотрудничала с ФСБ"
+    },
+    "531295": {
+        "article_date_timestamp": 1650878095.0,
+        "article_title": "Отравление данных ИИ — новая угроза кибербезопасности",
+        "article_url": "https://www.securitylab.ru/news/531295.php",
+        "article_desc": "Манипулирование информацией, используемой для обучения систем, предлагает практически неотслеживаемый метод обхода защиты на базе ИИ."
+    },
+    "531294": {
+        "article_date_timestamp": 1650877568.0,
+        "article_title": "Из-за санкций русские хакеры ищут новые способы отмывания денег",
+        "article_url": "https://www.securitylab.ru/news/531294.php",
+        "article_desc": "У хакеров осталось не так много вариантов – подпольные криптомиксеры, китайские платежные системы и банки в Армении и Вьетнаме."
+    },
+    "531293": {
+        "article_date_timestamp": 1650876228.0,
+        "article_title": "Молниеносная реакция: видим и устраняем киберугрозы с помощью PT XDR",
+        "article_url": "https://www.securitylab.ru/news/531293.php",
+        "article_desc": "Positive Technologies открывает продажу PT XDR и расскажет на вебинаре, как реализовать результативную кибербезопасность в компании."
+    },
+    "531292": {
+        "article_date_timestamp": 1650874550.0,
+        "article_title": "Уязвимость в тестах на коронавирус Cue Health позволяла менять результаты",
+        "article_url": "https://www.securitylab.ru/news/531292.php",
+        "article_desc": "Производителю не известно о каких-либо случаях фальсификации результатов тестирования в реальной жизни."
+    },
+    "531291": {
+        "article_date_timestamp": 1650872975.0,
+        "article_title": "Anonymous опубликовали 5,8 ТБ данных российских компаний в ходе кибервойны с Россией",
+        "article_url": "https://www.securitylab.ru/news/531291.php",
+        "article_desc": "С момента объявления кибервойны России группировка Anonymous опубликовала около 5,8 ТБ данных российских компаний."
+    },
+    "531288": {
+        "article_date_timestamp": 1650872049.0,
+        "article_title": "Atlassian выпускает исправления для критической уязвимости в Jira",
+        "article_url": "https://www.securitylab.ru/news/531288.php",
+        "article_desc": "Уязвимость, отслеживаемая как CVE-2022-0540 , имеет рейтинг 9,9 из 10"
+    },
+    "531286": {
+        "article_date_timestamp": 1650871216.0,
+        "article_title": "Zoom согласился выплатить $85 млн пострадавшим от хакеров-шутников",
+        "article_url": "https://www.securitylab.ru/news/531286.php",
+        "article_desc": "К такому соглашению пришли стороны по итогам судебного разбирательства в рамках поданных исков на период с марта по май 2020 года."
+    },
+    "531287": {
+        "article_date_timestamp": 1650870671.0,
+        "article_title": "Китайские хакеры стоят за большинством эксплуатаций 0Day-уязвимостей в 2021 году",
+        "article_url": "https://www.securitylab.ru/news/531287.php",
+        "article_desc": "Наиболее заметным случаем стали атаки APT-группировки Hafnium, которая использовала 4 уязвимости нулевого дня в серверах Microsoft Exchange."
+    },
+    "531285": {
+        "article_date_timestamp": 1650868683.0,
+        "article_title": "Стала известна еще одна жертва Lapsus$ – телеком-компания T-Mobile",
+        "article_url": "https://www.securitylab.ru/news/531285.php",
+        "article_desc": "T-Mobile подтвердила, что несколько недель назад хакеры Lapsus$ взломали ее внутренние системы."
+    },
+    "531283": {
+        "article_date_timestamp": 1650816107.0,
+        "article_title": "Google позволит пользователям отклонять все cookie файлы после штрафа",
+        "article_url": "https://www.securitylab.ru/news/531283.php",
+        "article_desc": "Новый баннер дает возможность пользователям отказаться от всех отслеживающих cookie файлов в один клик."
+    },
+    "531282": {
+        "article_date_timestamp": 1650808069.0,
+        "article_title": "Исход Kerio Control: преимущества миграции на Ideco UTM",
+        "article_url": "https://www.securitylab.ru/news/531282.php",
+        "article_desc": "Приглашаем на вебинар, где поговорим о том, почему миграция на Ideco UTM – лучшее решение для тех, кто использовал Kerio."
+    },
+    "531281": {
+        "article_date_timestamp": 1650785800.0,
+        "article_title": "Европа принимает новые радикальные правила для технологических платформ",
+        "article_url": "https://www.securitylab.ru/news/531281.php",
+        "article_desc": "Европа вводит новые правила для интернет-компаний по контролю за контентом."
+    },
+    "531302": {
+        "article_date_timestamp": 1650892883.0,
+        "article_title": "На Intuit подали в суд в связи с кражей криптовалюты из кошельков Trezor",
+        "article_url": "https://www.securitylab.ru/news/531302.php",
+        "article_desc": "Ранее в этом месяце с помощью хитроумного фишинга хакеры получили доступ к содержимому криптовалютных кошельков Trezor."
+    },
+    "531300": {
+        "article_date_timestamp": 1650888662.0,
+        "article_title": "VK направила министерству цифрового развития РФ письмо с просьбой помочь с закупкой «десятков тысяч серверов»",
+        "article_url": "https://www.securitylab.ru/news/531300.php",
+        "article_desc": "В Минпромторге «не видят причин для нагнетания обстановки»"
+    },
+    "531297": {
+        "article_date_timestamp": 1650880758.0,
+        "article_title": "Хакеры потребовали $7,5 млн у индийского нефтяного завода Oil India",
+        "article_url": "https://www.securitylab.ru/news/531297.php",
+        "article_desc": "Кибератака произошла 10 апреля на одной из рабочих станций отдела геологии и разработки месторождений компании."
+    },
+    "531304": {
+        "article_date_timestamp": 1650895801.0,
+        "article_title": "Госсайты Эстонии уже несколько дней находятся под атакой",
+        "article_url": "https://www.securitylab.ru/news/531304.php",
+        "article_desc": "Хотя с пятницы мощность атак начала снижаться, в субботу-воскресенье сайты все еще подвергались DDoS’у."
+    },
+    "531303": {
+        "article_date_timestamp": 1650893096.0,
+        "article_title": "Участники программы Hack DHS обнаружили 122 уязвимости в системах МНБ США",
+        "article_url": "https://www.securitylab.ru/news/531303.php",
+        "article_desc": "27 из выявленных проблем оцениваются как критические."
     }
 }

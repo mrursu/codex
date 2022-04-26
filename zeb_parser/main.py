@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 import csv
+import json 
 
 
 def get_data():
@@ -34,6 +35,8 @@ def get_data():
                 'Ссылка'
             )
         )
+
+    new_dict = {}
 
     for item in range(1, 2 ):
         url = f'https://be.tommy.com/heren-t-shirts?scrollPage={item}'
@@ -66,6 +69,17 @@ def get_data():
                         
                     )
                 )
+
+                new_dict[item] = {
+                    'title': name,
+                    'href': href_product
+                }
+            
+            with open('new_dict.json', 'w') as file:
+                json.dump(new_dict,file,indent=4, ensure_ascii=False)
+
+
+
     print('[INFO] Файл успешно записан....')
             
             # print(price)
